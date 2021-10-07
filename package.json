@@ -1,0 +1,21 @@
+{
+  "name": "utelly",
+  "version": "1.0.0",
+  "description": "A package to find the streaming websites for the movies and tv shows for a particular country",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Shaheer khan",
+  "license": "ISC",
+  "private": false,
+  "homepage": "https://github.com/UserName/package-name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UserName/package-name.git"
+  },
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
