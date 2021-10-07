@@ -10,10 +10,10 @@
   "author": "Muhammad Shaheer khan",
   "license": "ISC",
   "private": false,
-  "homepage": "https://github.com/UserName/package-name",
+  "homepage": "https://github.com/shaheerkhan199/utelly",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UserName/package-name.git"
+    "url": "https://github.com/shaheerkhan199/utelly.git"
   },
   "dependencies": {
     "axios": "^0.22.0"
